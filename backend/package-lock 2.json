@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "dependencies": {
         "bcryptjs": "^2.4.3",
-        "body-parser": "^1.20.3",
+        "body-parser": "^1.19.0",
         "express": "^4.17.1",
         "jsonwebtoken": "^9.0.2",
         "mongoose": "^5.10.9"
@@ -35,12 +35,12 @@
       }
     },
     "node_modules/@types/node": {
-      "version": "22.8.1",
-      "resolved": "https://registry.npmjs.org/@types/node/-/node-22.8.1.tgz",
-      "integrity": "sha512-k6Gi8Yyo8EtrNtkHXutUu2corfDf9su95VYVP10aGYMMROM6SAItZi0w1XszA6RtWTHSVp5OeFof37w0IEqCQg==",
+      "version": "22.7.5",
+      "resolved": "https://registry.npmjs.org/@types/node/-/node-22.7.5.tgz",
+      "integrity": "sha512-jML7s2NAzMWc//QSJ1a3prpk78cOPchGvXJsC3C6R6PSMoooztvRVQEz89gmBTBY1SPMaqo5teB4uNHPdetShQ==",
       "license": "MIT",
       "dependencies": {
-        "undici-types": "~6.19.8"
+        "undici-types": "~6.19.2"
       }
     },
     "node_modules/accepts": {
